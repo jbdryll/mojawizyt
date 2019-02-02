@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Witaj na mojej stronie
 
 You can use the [editor on GitHub](https://github.com/jbdryll/mojawizyt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
